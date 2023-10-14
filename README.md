@@ -71,7 +71,8 @@ Heres the Books we added:
 ![image](https://github.com/itnatepena/SQL-DB-Intro/assets/147539410/883f1942-8d5b-43b7-a138-2f017660e614)
 
 
-These SQL scripts will insert sample data into your tables. Customize the data as needed for your project. After executing these scripts, your database will be populated with authors, categories, and books.
+These SQL scripts will insert sample data into your tables. Customize the data as needed for your own projects. After executing these scripts, your database should be populated. 
+Lets make sure with a new query.
 
 ## Step 6: Retrieve All Books
 
