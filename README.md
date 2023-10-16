@@ -10,6 +10,7 @@ This project serves as an introduction to creating and interacting with SQL data
 
 - [Microsoft Azure](https://azure.microsoft.com/)
 - [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download)
+- Some SQL scripts will be shown for completion of this project.
 
 ## Step 1: Create an Azure SQL Database
 ![image](https://github.com/itnatepena/SQL-DB-Intro/assets/147539410/e2adc24d-bbfb-493b-8d11-5f8bca17e968)
