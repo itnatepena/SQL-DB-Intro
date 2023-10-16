@@ -1,6 +1,6 @@
 ![image](https://github.com/itnatepena/SQL-DB-Intro/assets/147539410/c3f66eb5-314a-4f9c-b3d9-c7b2a768f6a3)
 
-# SQL Database Interaction Project
+# SQL Database Interaction Project with Azure Data Studio
 
 ## Introduction
 
